@@ -1,0 +1,481 @@
+L 04/06/2019 - 12:01:55: Start of error session.
+L 04/06/2019 - 12:01:55: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20190406.log")
+L 04/06/2019 - 12:01:55: [AMXX] Plugin file open error (plugin "admin_slash.amxx")
+L 04/06/2019 - 12:09:21: Start of error session.
+L 04/06/2019 - 12:09:21: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20190406.log")
+L 04/06/2019 - 12:09:21: [AMXX] Invalid Plugin (plugin "knife_kill_bonus.amxx")
+L 04/06/2019 - 12:09:21: [AMXX] Plugin file open error (plugin "admin_slash.amxx")
+L 04/06/2019 - 12:13:21: Start of error session.
+L 04/06/2019 - 12:13:21: Info (map "$1000$") (file "addons/amxmodx/logs/error_20190406.log")
+L 04/06/2019 - 12:13:21: [AMXX] Plugin file open error (plugin "admin_slash.amxx")
+L 04/06/2019 - 12:25:32: Invalid vector string handle provided (0)
+L 04/06/2019 - 12:25:32: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 12:25:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 12:29:30: Invalid vector string handle provided (0)
+L 04/06/2019 - 12:29:30: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 12:29:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 12:30:20: Start of error session.
+L 04/06/2019 - 12:30:20: Info (map "de_dust2night") (file "addons/amxmodx/logs/error_20190406.log")
+L 04/06/2019 - 12:30:20: [AMXX] Plugin file open error (plugin "admin_slash.amxx")
+L 04/06/2019 - 12:31:19: Start of error session.
+L 04/06/2019 - 12:31:19: Info (map "$1000$") (file "addons/amxmodx/logs/error_20190406.log")
+L 04/06/2019 - 12:31:19: [AMXX] Plugin file open error (plugin "admin_slash.amxx")
+L 04/06/2019 - 12:35:50: Invalid vector string handle provided (0)
+L 04/06/2019 - 12:35:50: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 12:35:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 12:36:45: Invalid vector string handle provided (0)
+L 04/06/2019 - 12:36:45: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 12:36:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 12:40:08: Invalid vector string handle provided (0)
+L 04/06/2019 - 12:40:08: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 12:40:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 12:42:10: Invalid vector string handle provided (0)
+L 04/06/2019 - 12:42:10: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 12:42:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 12:43:00: Invalid vector string handle provided (0)
+L 04/06/2019 - 12:43:00: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 12:43:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 12:43:00: Invalid vector string handle provided (0)
+L 04/06/2019 - 12:43:00: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 12:43:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 12:43:16: Invalid vector string handle provided (0)
+L 04/06/2019 - 12:43:16: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 12:43:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 12:43:32: Start of error session.
+L 04/06/2019 - 12:43:32: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20190406.log")
+L 04/06/2019 - 12:43:32: [AMXX] Plugin file open error (plugin "admin_slash.amxx")
+L 04/06/2019 - 12:43:38: Start of error session.
+L 04/06/2019 - 12:43:38: Info (map "$1000$") (file "addons/amxmodx/logs/error_20190406.log")
+L 04/06/2019 - 12:43:38: [AMXX] Plugin file open error (plugin "admin_slash.amxx")
+L 04/06/2019 - 12:44:16: Invalid vector string handle provided (0)
+L 04/06/2019 - 12:44:16: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 12:44:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 12:44:48: Invalid vector string handle provided (0)
+L 04/06/2019 - 12:44:48: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 12:44:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 12:46:28: Invalid vector string handle provided (0)
+L 04/06/2019 - 12:46:28: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 12:46:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 12:48:25: Invalid vector string handle provided (0)
+L 04/06/2019 - 12:48:25: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 12:48:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 12:48:25: Invalid vector string handle provided (0)
+L 04/06/2019 - 12:48:25: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 12:48:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 12:48:40: Invalid vector string handle provided (0)
+L 04/06/2019 - 12:48:40: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 12:48:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 12:48:50: Invalid vector string handle provided (0)
+L 04/06/2019 - 12:48:50: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 12:48:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 12:49:16: Invalid vector string handle provided (0)
+L 04/06/2019 - 12:49:16: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 12:49:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 12:50:27: Invalid vector string handle provided (0)
+L 04/06/2019 - 12:50:27: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 12:50:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 12:50:44: Invalid vector string handle provided (0)
+L 04/06/2019 - 12:50:44: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 12:50:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 12:53:06: Start of error session.
+L 04/06/2019 - 12:53:06: Info (map "aa_dima2") (file "addons/amxmodx/logs/error_20190406.log")
+L 04/06/2019 - 12:53:06: [AMXX] Plugin file open error (plugin "admin_slash.amxx")
+L 04/06/2019 - 12:53:57: Invalid vector string handle provided (0)
+L 04/06/2019 - 12:53:57: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 12:53:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 12:53:57: Invalid vector string handle provided (0)
+L 04/06/2019 - 12:53:57: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 12:53:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 12:54:41: Invalid vector string handle provided (0)
+L 04/06/2019 - 12:54:41: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 12:54:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 12:55:17: Invalid vector string handle provided (0)
+L 04/06/2019 - 12:55:17: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 12:55:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:01:17: Start of error session.
+L 04/06/2019 - 13:01:17: Info (map "$1000$") (file "addons/amxmodx/logs/error_20190406.log")
+L 04/06/2019 - 13:01:17: [AMXX] Plugin file open error (plugin "admin_slash.amxx")
+L 04/06/2019 - 13:10:12: Start of error session.
+L 04/06/2019 - 13:10:12: Info (map "$1000$") (file "addons/amxmodx/logs/error_20190406.log")
+L 04/06/2019 - 13:10:12: [AMXX] Plugin file open error (plugin "admin_slash.amxx")
+L 04/06/2019 - 13:14:27: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:14:27: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:14:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:15:00: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:15:00: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:15:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:15:27: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:15:27: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:15:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:15:38: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:15:38: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:15:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:15:56: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:15:56: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:15:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:16:22: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:16:22: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:16:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:17:05: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:17:05: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:17:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:17:41: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:17:41: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:17:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:17:43: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:17:43: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:17:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:18:02: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:18:02: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:18:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:18:55: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:18:55: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:18:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:19:11: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:19:11: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:19:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:19:44: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:19:44: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:19:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:20:05: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:20:05: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:20:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:21:22: Start of error session.
+L 04/06/2019 - 13:21:22: Info (map "1hp") (file "addons/amxmodx/logs/error_20190406.log")
+L 04/06/2019 - 13:21:22: [AMXX] Plugin file open error (plugin "admin_slash.amxx")
+L 04/06/2019 - 13:21:34: Start of error session.
+L 04/06/2019 - 13:21:34: Info (map "$1000$") (file "addons/amxmodx/logs/error_20190406.log")
+L 04/06/2019 - 13:21:34: [AMXX] Plugin file open error (plugin "admin_slash.amxx")
+L 04/06/2019 - 13:22:56: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:22:56: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:22:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:24:42: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:24:42: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:24:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:24:55: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:24:55: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:24:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:25:30: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:25:30: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:25:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:26:03: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:26:03: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:26:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:26:33: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:26:33: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:26:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:27:33: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:27:33: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:27:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:28:50: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:28:50: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:28:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:30:21: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:30:21: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:30:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:31:15: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:31:15: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:31:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:31:32: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:31:32: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:31:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:32:17: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:32:17: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:32:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:32:25: Start of error session.
+L 04/06/2019 - 13:32:25: Info (map "$1000$") (file "addons/amxmodx/logs/error_20190406.log")
+L 04/06/2019 - 13:32:25: [AMXX] Plugin file open error (plugin "admin_slash.amxx")
+L 04/06/2019 - 13:33:24: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:33:24: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:33:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:34:13: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:34:13: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:34:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:34:45: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:34:45: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:34:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:35:12: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:35:12: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:35:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:35:54: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:35:54: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:35:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:39:02: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:39:02: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:39:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:39:14: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:39:14: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:39:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:39:28: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:39:28: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:39:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:40:03: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:40:03: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:40:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:40:41: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:40:41: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:40:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:41:35: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:41:35: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:41:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:42:08: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:42:08: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:42:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:44:07: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:44:07: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:44:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:44:17: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:44:17: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:44:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:44:37: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:44:37: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:44:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:45:28: Start of error session.
+L 04/06/2019 - 13:45:28: Info (map "aa_dima2") (file "addons/amxmodx/logs/error_20190406.log")
+L 04/06/2019 - 13:45:28: [AMXX] Plugin file open error (plugin "admin_slash.amxx")
+L 04/06/2019 - 13:46:06: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:46:06: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:46:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:47:18: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:47:18: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:47:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:47:30: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:47:30: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:47:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:47:44: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:47:44: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:47:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:48:06: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:48:06: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:48:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:48:27: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:48:27: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:48:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:48:46: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:48:46: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:48:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:49:08: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:49:08: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:49:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:49:35: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:49:35: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:49:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:49:46: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:49:46: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:49:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:50:34: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:50:34: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:50:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:50:46: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:50:46: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:50:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:51:01: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:51:01: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:51:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:51:28: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:51:28: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:51:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:53:57: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:53:57: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:53:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:54:21: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:54:21: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:54:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:56:51: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:56:51: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:56:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:57:44: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:57:44: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:57:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 13:58:23: Start of error session.
+L 04/06/2019 - 13:58:23: Info (map "3d_aim_dust2") (file "addons/amxmodx/logs/error_20190406.log")
+L 04/06/2019 - 13:58:23: [AMXX] Plugin file open error (plugin "admin_slash.amxx")
+L 04/06/2019 - 13:59:52: Invalid vector string handle provided (0)
+L 04/06/2019 - 13:59:52: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 13:59:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 14:00:51: Invalid vector string handle provided (0)
+L 04/06/2019 - 14:00:51: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 14:00:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 14:01:03: Invalid vector string handle provided (0)
+L 04/06/2019 - 14:01:03: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 14:01:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 14:01:51: Invalid vector string handle provided (0)
+L 04/06/2019 - 14:01:51: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 14:01:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 14:02:09: Invalid vector string handle provided (0)
+L 04/06/2019 - 14:02:10: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 14:02:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 14:02:36: Invalid vector string handle provided (0)
+L 04/06/2019 - 14:02:36: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 14:02:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 14:03:20: Invalid vector string handle provided (0)
+L 04/06/2019 - 14:03:20: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 14:03:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 14:03:44: Invalid vector string handle provided (0)
+L 04/06/2019 - 14:03:44: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 14:03:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 14:04:21: Invalid vector string handle provided (0)
+L 04/06/2019 - 14:04:21: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 14:04:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 14:04:48: Invalid vector string handle provided (0)
+L 04/06/2019 - 14:04:48: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 14:04:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 14:05:41: Invalid vector string handle provided (0)
+L 04/06/2019 - 14:05:41: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 14:05:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 14:06:02: Invalid vector string handle provided (0)
+L 04/06/2019 - 14:06:02: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 14:06:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 14:06:31: Invalid vector string handle provided (0)
+L 04/06/2019 - 14:06:31: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 14:06:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 14:07:21: Invalid vector string handle provided (0)
+L 04/06/2019 - 14:07:21: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 14:07:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 14:07:53: Invalid vector string handle provided (0)
+L 04/06/2019 - 14:07:53: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 14:07:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 14:07:56: Invalid vector string handle provided (0)
+L 04/06/2019 - 14:07:56: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 14:07:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 14:08:49: Invalid vector string handle provided (0)
+L 04/06/2019 - 14:08:49: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 14:08:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 14:08:54: Invalid vector string handle provided (0)
+L 04/06/2019 - 14:08:54: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 14:08:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 14:09:43: Invalid vector string handle provided (0)
+L 04/06/2019 - 14:09:43: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 14:09:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 14:10:20: Invalid vector string handle provided (0)
+L 04/06/2019 - 14:10:20: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 14:10:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 14:11:09: Invalid vector string handle provided (0)
+L 04/06/2019 - 14:11:09: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 14:11:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 14:13:36: Invalid vector string handle provided (0)
+L 04/06/2019 - 14:13:36: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 14:13:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 14:14:08: Invalid vector string handle provided (0)
+L 04/06/2019 - 14:14:08: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 14:14:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 14:14:35: Invalid vector string handle provided (0)
+L 04/06/2019 - 14:14:35: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 14:14:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 14:15:06: Invalid vector string handle provided (0)
+L 04/06/2019 - 14:15:06: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 14:15:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 14:15:29: Invalid vector string handle provided (0)
+L 04/06/2019 - 14:15:29: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 14:15:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 14:15:53: Invalid vector string handle provided (0)
+L 04/06/2019 - 14:15:53: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 14:15:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 14:16:28: Invalid vector string handle provided (0)
+L 04/06/2019 - 14:16:28: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 14:16:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 14:16:54: Invalid vector string handle provided (0)
+L 04/06/2019 - 14:16:54: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 14:16:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 14:17:57: Invalid vector string handle provided (0)
+L 04/06/2019 - 14:17:57: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 14:17:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 14:18:46: Invalid vector string handle provided (0)
+L 04/06/2019 - 14:18:46: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 14:18:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 14:19:15: Invalid vector string handle provided (0)
+L 04/06/2019 - 14:19:15: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 14:19:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 14:19:37: Invalid vector string handle provided (0)
+L 04/06/2019 - 14:19:37: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 14:19:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 14:20:48: Invalid vector string handle provided (0)
+L 04/06/2019 - 14:20:48: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 14:20:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 14:21:22: Invalid vector string handle provided (0)
+L 04/06/2019 - 14:21:22: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 14:21:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 14:21:55: Invalid vector string handle provided (0)
+L 04/06/2019 - 14:21:55: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 14:21:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 14:22:40: Invalid vector string handle provided (0)
+L 04/06/2019 - 14:22:40: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 14:22:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 14:23:35: Invalid vector string handle provided (0)
+L 04/06/2019 - 14:23:35: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 14:23:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 14:23:54: Invalid vector string handle provided (0)
+L 04/06/2019 - 14:23:54: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 14:23:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 14:25:43: Invalid vector string handle provided (0)
+L 04/06/2019 - 14:25:43: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 14:25:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 14:26:48: Invalid vector string handle provided (0)
+L 04/06/2019 - 14:26:48: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 14:26:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 14:26:49: Invalid vector string handle provided (0)
+L 04/06/2019 - 14:26:49: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 14:26:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 14:32:54: Start of error session.
+L 04/06/2019 - 14:32:54: Info (map "de_aztec") (file "addons/amxmodx/logs/error_20190406.log")
+L 04/06/2019 - 14:32:54: [AMXX] Plugin file open error (plugin "admin_slash.amxx")
+L 04/06/2019 - 15:18:19: Start of error session.
+L 04/06/2019 - 15:18:19: Info (map "$1000$") (file "addons/amxmodx/logs/error_20190406.log")
+L 04/06/2019 - 15:18:19: [AMXX] Plugin file open error (plugin "admin_slash.amxx")
+L 04/06/2019 - 15:24:12: Invalid vector string handle provided (0)
+L 04/06/2019 - 15:24:12: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 15:24:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 15:25:02: Invalid vector string handle provided (0)
+L 04/06/2019 - 15:25:02: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 15:25:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 15:25:33: Invalid vector string handle provided (0)
+L 04/06/2019 - 15:25:33: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 15:25:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 15:26:02: Invalid vector string handle provided (0)
+L 04/06/2019 - 15:26:02: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 15:26:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 15:27:26: Invalid vector string handle provided (0)
+L 04/06/2019 - 15:27:26: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 15:27:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 15:28:00: Invalid vector string handle provided (0)
+L 04/06/2019 - 15:28:00: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 15:28:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 15:28:11: Invalid vector string handle provided (0)
+L 04/06/2019 - 15:28:11: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 15:28:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 15:28:57: Invalid vector string handle provided (0)
+L 04/06/2019 - 15:28:57: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 15:28:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 15:29:10: Invalid vector string handle provided (0)
+L 04/06/2019 - 15:29:10: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 15:29:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 15:30:02: Invalid vector string handle provided (0)
+L 04/06/2019 - 15:30:02: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 15:30:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 15:30:58: Invalid vector string handle provided (0)
+L 04/06/2019 - 15:30:58: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 15:30:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 15:31:15: Invalid vector string handle provided (0)
+L 04/06/2019 - 15:31:15: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 15:31:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 15:32:11: Invalid vector string handle provided (0)
+L 04/06/2019 - 15:32:11: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 15:32:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 15:32:22: Invalid vector string handle provided (0)
+L 04/06/2019 - 15:32:22: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 15:32:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 15:32:39: Invalid vector string handle provided (0)
+L 04/06/2019 - 15:32:39: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 15:32:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 15:32:51: Invalid vector string handle provided (0)
+L 04/06/2019 - 15:32:51: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 15:32:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 15:33:48: Invalid vector string handle provided (0)
+L 04/06/2019 - 15:33:48: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 15:33:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/06/2019 - 15:34:42: Start of error session.
+L 04/06/2019 - 15:34:42: Info (map "aa_dima2") (file "addons/amxmodx/logs/error_20190406.log")
+L 04/06/2019 - 15:34:42: [AMXX] Plugin file open error (plugin "admin_slash.amxx")
+L 04/06/2019 - 15:35:53: Invalid vector string handle provided (0)
+L 04/06/2019 - 15:35:53: [AMXX] Run time error 10 (plugin "QuakeSounds.amxx") (native "vformat") - debug not enabled!
+L 04/06/2019 - 15:35:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

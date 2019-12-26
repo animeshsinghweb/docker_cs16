@@ -1,0 +1,70 @@
+L 05/06/2019 - 13:25:37: -------- Mapchange to $1000$ --------
+L 05/06/2019 - 13:25:37: [CSX] Could not load csstats file: cstrike\
+L 05/06/2019 - 13:25:37: [AMXX] Plugin "axn_bhop.amxx" failed to load: Module/Library "orpheu" required for plugin.  Check modules.ini.
+L 05/06/2019 - 13:25:47: [admin.amxx] Login: "Main Uppar Waala hoon.<1><STEAM_0:0:560660266><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 05/06/2019 - 13:25:51: [admin.amxx] Login: "Main Uppar Waala hoon.<1><STEAM_0:0:560660266><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 05/06/2019 - 13:50:47: -------- Mapchange to $1000$ --------
+L 05/06/2019 - 13:50:47: [CSX] Could not load csstats file: cstrike\
+L 05/06/2019 - 13:50:47: [AMXX] Plugin "axn_bhop.amxx" failed to load: Module/Library "orpheu" required for plugin.  Check modules.ini.
+L 05/06/2019 - 13:50:57: [admin.amxx] Login: "Main Uppar Waala hoon.<1><STEAM_0:0:841558293><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 05/06/2019 - 13:51:00: [admin.amxx] Login: "Main Uppar Waala hoon.<1><STEAM_0:0:841558293><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 05/06/2019 - 14:04:43: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/06/2019 - 14:04:58: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be aa_dima2
+L 05/06/2019 - 14:05:31: -------- Mapchange to aa_dima2 --------
+L 05/06/2019 - 14:05:31: [AMXX] Plugin "axn_bhop.amxx" failed to load: Module/Library "orpheu" required for plugin.  Check modules.ini.
+L 05/06/2019 - 14:05:32: [admin.amxx] Login: "Main Uppar Waala hoon.<1><STEAM_0:0:841558293><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 05/06/2019 - 14:05:34: [admin.amxx] Login: "Main Uppar Waala hoon.<1><STEAM_0:0:841558293><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 05/06/2019 - 14:19:17: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/06/2019 - 14:19:32: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 05/06/2019 - 14:20:17: -------- Mapchange to de_dust2 --------
+L 05/06/2019 - 14:20:17: [AMXX] Plugin "axn_bhop.amxx" failed to load: Module/Library "orpheu" required for plugin.  Check modules.ini.
+L 05/06/2019 - 14:20:18: [admin.amxx] Login: "Main Uppar Waala hoon.<1><STEAM_0:0:841558293><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 05/06/2019 - 14:20:20: [admin.amxx] Login: "Main Uppar Waala hoon.<1><STEAM_0:0:841558293><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 05/06/2019 - 14:20:27: -------- Mapchange to 3d_aim_dust2 --------
+L 05/06/2019 - 14:20:27: [AMXX] Plugin "axn_bhop.amxx" failed to load: Module/Library "orpheu" required for plugin.  Check modules.ini.
+L 05/06/2019 - 14:20:28: [admin.amxx] Login: "Main Uppar Waala hoon.<1><STEAM_0:0:841558293><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 05/06/2019 - 14:20:29: [admin.amxx] Login: "Main Uppar Waala hoon.<1><STEAM_0:0:841558293><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 05/06/2019 - 14:38:24: -------- Mapchange to 3d_aim_dust2 --------
+L 05/06/2019 - 14:38:24: [AMXX] Plugin "axn_bhop.amxx" failed to load: Module/Library "orpheu" required for plugin.  Check modules.ini.
+L 05/06/2019 - 14:38:25: [admin.amxx] Login: "Main Uppar Waala hoon.<15><STEAM_0:0:841558293><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 05/06/2019 - 14:38:27: [admin.amxx] Login: "Main Uppar Waala hoon.<15><STEAM_0:0:841558293><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 05/06/2019 - 14:58:40: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/06/2019 - 14:58:55: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be aa_dima2
+L 05/06/2019 - 14:59:56: -------- Mapchange to aa_dima2 --------
+L 05/06/2019 - 14:59:56: [AMXX] Plugin "axn_bhop.amxx" failed to load: Module/Library "orpheu" required for plugin.  Check modules.ini.
+L 05/06/2019 - 14:59:57: [admin.amxx] Login: "Main Uppar Waala hoon.<15><STEAM_0:0:841558293><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 05/06/2019 - 14:59:59: [admin.amxx] Login: "Main Uppar Waala hoon.<15><STEAM_0:0:841558293><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 05/06/2019 - 15:12:42: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 05/06/2019 - 15:12:57: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2_2x2
+L 05/06/2019 - 15:13:46: -------- Mapchange to de_dust2_2x2 --------
+L 05/06/2019 - 15:13:46: [AMXX] Plugin "axn_bhop.amxx" failed to load: Module/Library "orpheu" required for plugin.  Check modules.ini.
+L 05/06/2019 - 15:13:47: [admin.amxx] Login: "Main Uppar Waala hoon.<15><STEAM_0:0:841558293><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 05/06/2019 - 15:13:48: [admin.amxx] Login: "Main Uppar Waala hoon.<15><STEAM_0:0:841558293><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 05/06/2019 - 15:14:44: -------- Mapchange to $2000$ --------
+L 05/06/2019 - 15:14:44: [AMXX] Plugin "axn_bhop.amxx" failed to load: Module/Library "orpheu" required for plugin.  Check modules.ini.
+L 05/06/2019 - 15:14:45: [admin.amxx] Login: "Main Uppar Waala hoon.<15><STEAM_0:0:841558293><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 05/06/2019 - 15:17:22: -------- Mapchange to $1000$ --------
+L 05/06/2019 - 15:17:22: [CSX] Could not load csstats file: cstrike\
+L 05/06/2019 - 15:17:22: [AMXX] Plugin "axn_bhop.amxx" failed to load: Module/Library "orpheu" required for plugin.  Check modules.ini.
+L 05/06/2019 - 15:17:23: [admin.amxx] Login: "Main Uppar Waala hoon.<1><STEAM_0:0:841558293><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 05/06/2019 - 15:17:25: [admin.amxx] Login: "Main Uppar Waala hoon.<1><STEAM_0:0:841558293><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 05/06/2019 - 15:42:33: -------- Mapchange to de_aztec --------
+L 05/06/2019 - 15:42:33: [AMXX] Plugin "axn_bhop.amxx" failed to load: Module/Library "orpheu" required for plugin.  Check modules.ini.
+L 05/06/2019 - 15:42:34: [admin.amxx] Login: "Main Uppar Waala hoon.<1><STEAM_0:0:841558293><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 05/06/2019 - 15:42:36: [admin.amxx] Login: "Main Uppar Waala hoon.<1><STEAM_0:0:841558293><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 05/06/2019 - 16:07:43: -------- Mapchange to de_dust2 --------
+L 05/06/2019 - 16:07:43: [AMXX] Plugin "axn_bhop.amxx" failed to load: Module/Library "orpheu" required for plugin.  Check modules.ini.
+L 05/06/2019 - 16:07:44: [admin.amxx] Login: "Main Uppar Waala hoon.<1><STEAM_0:0:841558293><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 05/06/2019 - 16:07:46: [admin.amxx] Login: "Main Uppar Waala hoon.<1><STEAM_0:0:841558293><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 05/06/2019 - 16:32:54: -------- Mapchange to de_inferno --------
+L 05/06/2019 - 16:32:54: [AMXX] Plugin "axn_bhop.amxx" failed to load: Module/Library "orpheu" required for plugin.  Check modules.ini.
+L 05/06/2019 - 16:32:55: [admin.amxx] Login: "Main Uppar Waala hoon.<1><STEAM_0:0:841558293><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 05/06/2019 - 16:32:57: [admin.amxx] Login: "Main Uppar Waala hoon.<1><STEAM_0:0:841558293><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 05/06/2019 - 16:58:04: -------- Mapchange to de_nuke --------
+L 05/06/2019 - 16:58:05: [AMXX] Plugin "axn_bhop.amxx" failed to load: Module/Library "orpheu" required for plugin.  Check modules.ini.
+L 05/06/2019 - 16:58:06: [admin.amxx] Login: "Main Uppar Waala hoon.<1><STEAM_0:0:841558293><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 05/06/2019 - 16:58:07: [admin.amxx] Login: "Main Uppar Waala hoon.<1><STEAM_0:0:841558293><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 05/06/2019 - 17:23:15: -------- Mapchange to de_train --------
+L 05/06/2019 - 17:23:15: [AMXX] Plugin "axn_bhop.amxx" failed to load: Module/Library "orpheu" required for plugin.  Check modules.ini.
+L 05/06/2019 - 17:23:16: [admin.amxx] Login: "Main Uppar Waala hoon.<1><STEAM_0:0:841558293><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 05/06/2019 - 17:23:18: [admin.amxx] Login: "Main Uppar Waala hoon.<1><STEAM_0:0:841558293><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")

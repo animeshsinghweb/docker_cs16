@@ -1,0 +1,49 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
+<html>
+<head>
+<title>F4 Gamers Jamshedpur</title>
+<style type="text/css">
+pre 	{
+		font-family:Verdana,Tahoma;
+		color:#FFB000;
+    	}
+body	{
+		background:#000000;
+		margin-left:8px;
+		margin-top:0px;
+		}
+a	{
+    	text-decoration:    underline;
+	}
+a:link  {
+    color:  #FFFFFF;
+    }
+a:visited   {
+    color:  #FFFFFF;
+    }
+a:active    {
+    color:  #FFFFFF;
+    }
+a:hover {
+    color:  #FFFFFF;
+    text-decoration:    underline;
+    }
+</style>
+</head>
+<body scroll="no">
+<center>
+    <img src="https://rtsfpg.ch.files.1drv.com/y4mNQ6ke2_3-I2nDFkOk4N_UHWKkkRYB_Q2o_-jSnonGv-N1m9Fx92mM8JckTPV3zRYsxeDoNoXbiJSBtXfKVRyw3ewd406PM3ryxlX-_-iKjarRcxdQ2EANjJinlVj374XK-xeB5g_m7GxhbAMDCTTvb4yKMszqBW5cAueM-v3TG9qL19GcVdKPRB3bSAZlO35OknWief3frYKH50_dgSkpw?width=256&height=256&cropmode=none" width="60" height="60" />
+    <br>
+    <pre>
+    You are playing Counter-Strike v1.6
+    on F4 Gamers Hub Jamshedpur.
+    </pre>
+    <h3>Server Admins:</h3>
+    <pre>
+        F4 eB0La
+        F4 Final Destination
+        F4 Thor    
+    </pre>
+</center>
+</body>
+</html>

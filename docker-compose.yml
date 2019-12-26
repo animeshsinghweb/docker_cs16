@@ -7,8 +7,9 @@ services:
     image: febley/counter-strike_server:latest
     restart: always
     environment:
+      - VIRTUAL_PORT=27015
       - PORT=27015
-      - MAP=de_dust2
+      - MAP=$1000$
       - MAXPLAYERS=16
       - SV_LAN=0
     ports:
@@ -18,6 +19,10 @@ services:
       - ./cstrike/addons:/hlds/cstrike/addons
       - ./cstrike/dproto.cfg:/hlds/cstrike/dproto.cfg
       - ./cstrike/liblist.gam:/hlds/cstrike/liblist.gam
+      - ./cstrike/maps:/hlds/cstrike/maps
+      - ./cstrike/sound/f4:/hlds/cstrike/sound/f4
+      - ./cstrike/sound/f4sounds:/hlds/cstrike/sound/f4sounds
+      - ./cstrike/sound/QuakeSounds:/hlds/cstrike/sound/QuakeSounds
       - ./cstrike/mapcycle.cfg:/hlds/cstrike/mapcycle.cfg
-      - ./cstrike/maps:/hlds/cstrike/maps/a
       - ./cstrike/server.cfg:/hlds/cstrike/server.cfg
+      - ./cstrike/motd.txt:/hlds/cstrike/motd.txt
