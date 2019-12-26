@@ -1,0 +1,24 @@
+de_dust2night_BR 
+Map by ALF
+
+www.alfmaps.k6.com.br
+
+in your server, insert the comand
+
+sv_downloadurl "http://alfmaps.cspirata.com.br/cstrike"
+
+whitch this the map is download is faster
+
+or visit mey homepage for view other options for the comand.
+
+_____________________________________________________________
+
+Mapa Feito por ALF, no seu server insira o comando
+
+sv_downloadurl "http://alfmaps.cspirata.com.br/cstrike"
+
+ai o mapa será baixado deste site ai em vez de ser baixado do seu servidor, e assim ele será baixado rápidamente e são causará lag em seu server.
+
+Caso você queira ver como este comando funciona visite a meu site e vá para a parte de tutoriais.
+
+mantenha-se sempre atualizado, e vizite o site www.alfmaps.k6.com.br, e caso o sv_downloadurl mude, você ficará sabendo!
