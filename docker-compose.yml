@@ -9,7 +9,7 @@ services:
     environment:
       - VIRTUAL_PORT=27015
       - PORT=27015
-      - MAP=$1000$
+      - MAP=3d_aim_dust2
       - MAXPLAYERS=16
       - SV_LAN=0
     ports:
